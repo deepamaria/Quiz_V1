@@ -4,7 +4,7 @@ import { ReactDOM } from "react";
 
 function App() {
   return (
-    <div className="App">
+    <div data-theme="cupcake" className="App">
 
     <Nav/>
     <div className="main">
