@@ -1,0 +1,11 @@
+{
+    "Queries":[
+        {"Q": "If You Are not sure about use of variable, use let keyword",
+        "Ans": [
+            {"A":"True"},
+            {"B":"False"},
+            {"A":"NotSure"}
+        ]
+        }
+    ]
+}

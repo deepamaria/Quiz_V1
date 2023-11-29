@@ -45,7 +45,28 @@ body{
   height: 10%;
   width: 100%;
 }
+.mainContainer{
+  height: 80%;
+  width: 100%;
+}
 .Footer{
   height: 10%;
   width: 100%;
+}
+
+.startContainer, .thankContainer {
+  height: 80%;
+  width: 100%;
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.hero{
+  height: 100%;
+  width: 80%;
+  border-radius: 20px;
+  background-color: rgb(177, 215, 241);
 }
